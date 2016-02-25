@@ -1,0 +1,4 @@
+include ':app'
+
+//include 'vksdk_library'
+//project(':vksdk_library').projectDir = new File(rootProject.projectDir, 'modules/VKAndroidSDK/vksdk_library')

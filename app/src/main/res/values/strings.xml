@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VK Группы</string>
+
+    <string name="login_activity_title">VK Авторизация</string>
+    <string name="vk_button">Войти как %1$s</string>
+
+    <string name="search">Поиск групп</string>
+
+</resources>
